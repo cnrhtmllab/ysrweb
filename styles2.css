@@ -1,0 +1,156 @@
+.h1{
+margin-right:500px;
+text-align:center;
+}
+.menu {
+width:1343px;
+height:25px;
+margin-top:7px;
+border-style:groove;
+border-color:gray;
+background-color:rgb(12,100,198);
+//background-image:url('CSEF2.JPG');
+background-repeat:no-repeat;
+background-size:cover;
+text-align:center;
+background-attachment: fixed;
+ background-size: 100% 30%;
+}
+.menu a
+{
+font-size:25px;
+padding:0 15px;
+color:rgb(245,246,251);
+text-decoration:none;
+}
+
+.menu a:hover
+{
+background-color:rgb(245,246,251);
+color:rgb(12,100,198);
+
+}
+
+.bodypart .imagepart
+{
+width:900px;
+height:450px;
+border-style:groove;
+background-image:url('CSEIMG1.GIF');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+
+.bodypart .imagepart1
+{
+margin:left:150px;
+width:900px;
+height:400px;
+border-style:groove;
+background-image:url('civil.GIF');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+.imagepart13
+{
+width:900px;
+height:400px;
+border-style:groove;
+background-image:url('achieve.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+.bodypart .imagepart8
+{
+margin:left:150px;
+width:900px;
+height:400px;
+border-style:groove;
+background-image:url('image4.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+
+.bodypart .imagepart9
+{
+margin:left:150px;
+width:900px;
+height:410px;
+border-style:groove;
+background-image:url('research.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+.bodypart .imagepart10
+{
+margin:left:150px;
+width:900px;
+height:410px;
+border-style:groove;
+background-image:url('place.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+.bodypart .imagepart11
+{
+margin:left:150px;
+width:900px;
+height:400px;
+border-style:groove;
+background-image:url('hostel.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+.bodypart .imagepart12
+{
+margin:left:150px;
+width:900px;
+height:410px;
+border-style:groove;
+background-image:url('library.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+display:inline-block;
+}
+
+
+.bodypart .newspart{
+width:400px;
+height:450px;
+text-color:tomato;
+border-style:groove;
+border-color:black;
+background-color:#EAFFF1;
+float:right;
+}
+
+.bodypart .newspart h3
+{
+
+color:blue;
+margin-left:15px;
+}
+.bodypart .newspart .news
+{
+width:300px;
+height:230px;
+text-align:center;
+color:maroon;
+//border-style:groove;
+}
+
+.aboutus
+{
+width:1024px;
+height:400px;
+border-style:groove;
+border-color:gray;
+margin-top:10px;
+}

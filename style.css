@@ -1,0 +1,56 @@
+img{
+  height:500px;
+  width:100%;
+  
+}
+.text-box{
+   width: 600px;
+   position: absolute;
+   top: 50px;
+   left:100px;
+   color:#000000;
+   animation: textup 12s linear infinite;
+   transform: translateY(100px);
+}
+.text-box ul{
+float:right;
+list-style-type:none;
+margin-top:-90px;
+margin-right:-500px;
+padding:0px;
+overflow:hidden;
+line-height:100px;
+animation:movedown 1s linear 1;
+animation-delay:2s;
+visibility:visible;
+animation-fill-mode:forwards;
+
+}
+.text-box li{
+width:200px;
+display:inline;
+font-size:35;
+font-style:calibri;
+padding:0px 10px;
+}
+.fonts{
+font-family:verdana;
+}
+html{
+scroll-behavior:smooth;
+}
+
+
+
+
+
+
+@keyframes textup{
+         10%{
+             transform: translateY(0px);
+          }
+         100%{
+             transform: translateY(0px);
+          }
+}
+

@@ -1,0 +1,44 @@
+.banner2{
+background-image:url('image1.jpg');
+     height:500px;
+     width: 100%;
+     background-repeat:no-repeat;
+background-size:cover;
+}
+ .text1-box ul{
+       float:left;
+       list-style-type:none;
+       margin-top:30px;
+ margin-left:160px;
+       padding:0 20px;
+       overflow:hidden;
+       line-height:200px
+}
+ .text1-box li{
+       display:inline-block;
+       font-size:30;
+       font-color:white;
+       
+}
+  .text1-box li a{
+       display:inline;
+       float:left;
+       color:white;
+       font-family:Arial,Helvetica,sans-serif;
+       text-align:center;
+       padding:0px 20px;
+text-decoration:none;
+}
+.fonts{
+font-family:verdana;
+}
+html{
+scroll-behavior:smooth;
+}
+
+
+
+
+
+
+

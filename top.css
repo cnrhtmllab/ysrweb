@@ -1,0 +1,63 @@
+.allinone
+{
+border:5px solid black;
+background-color:black;
+width:1500px;
+height:150px;
+}
+.allinone .menubar ul{
+float:right;
+margin-right:210px;
+margin-top:-180px;
+padding:0px;
+overflow:hidden;
+line-height:100px;
+
+}
+.allinone .menubar li{
+display:inline;
+font-size:20;
+font-style:calibri;
+padding:0px;
+}
+.allinone .menubar li a{
+color:tomato;
+font-family:Arial,Helvetica,sans-serif;
+padding:0px 12px;
+}
+.head{
+margin-left:150px;
+margin-top:-150px;
+font-size:20px;
+color:white;
+font-family:Arial,Helvetica,sans-serif;
+line-height:50px;
+}
+.ul1 ul{
+float:right;
+margin-right:200px;
+margin-top:-100px;
+padding:0px;
+overflow:hidden;
+line-height:100px;
+}
+.ul1 li{
+display:inline-block;
+font-size:22;
+font-family:serif;
+}
+.ul1 li a{
+color:orange;
+text-align:center;
+padding:0px 20px;
+}
+.h1 h1{
+margin-left:200px;
+}
+
+
+
+
+
+
+
